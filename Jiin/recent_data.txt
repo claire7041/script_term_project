@@ -1,1 +1,1 @@
-["skt t1 bang", "skt t1 peanut", "hide on bush", "hide on bush", "hide on bush"]
+["hide on bush", "hide on bush", "\uc774\ub791", "wldls", "jiins"]
