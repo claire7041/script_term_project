@@ -1,0 +1,1 @@
+{"champion": ["\uc544\ub9ac"], "item": ["\uac15\ucca0\uc758 \uc194\ub77c\ub9ac \ud39c\ub358\ud2b8"], "player": ["skt t1 bang"]}
